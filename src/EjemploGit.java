@@ -8,6 +8,9 @@ public class EjemploGit {
 		
 		String nombre = "Nallely Diaz";
 		
+		System.out.println("Hola");
+
+		
 
 	}
 
